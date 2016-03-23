@@ -1,0 +1,1 @@
+# MSP430-Part-Library-for-Kicad
