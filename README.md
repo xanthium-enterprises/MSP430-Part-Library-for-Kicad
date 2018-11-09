@@ -1,5 +1,5 @@
 #MSP430 Microcontroller part libraries for Kicad EDA
-<img src = "http://www.xanthium.in/sites/default/files/site-images/msp430-kicad-parts/kicad-msp430-part-library-download.jpg"/>
+<img src = "https://www.xanthium.in/sites/default/files/site-images/msp430-kicad-parts/kicad-msp430-part-library-download.jpg"/>
 -----------------------------------------------------------------------------------------------
 A Collection of Kicad Part libraries for 16 bit MSP430 Microcontroller from Texas Instruments.
 Most parts are in SMD format and some in DIP package.
@@ -11,7 +11,7 @@ The schematic part libraries are available for
 - **MSP430G2xx3** Family Members like MSP430G2553.
 
 -------------------------------------------------------------------------------------------------
-<img src = "http://www.xanthium.in/sites/default/files/site-images/msp430-kicad-parts/msp430f161x-msp430g2553-msp430f5436a-kicad-part-library.jpg "/>
+<img src = "https://www.xanthium.in/sites/default/files/site-images/msp430-kicad-parts/msp430f161x-msp430g2553-msp430f5436a-kicad-part-library.jpg "/>
 - **MSP430F1610-F1611-F1612.lib**
   - Contains Schematic part for MSP430F1610,MSP430F1611 and MSP430F1612 
   - 64 pin LQFP Package 
@@ -43,4 +43,4 @@ The schematic part libraries are available for
   - SMD
    
   ------------------------------------------------------------------------------------------------------------------------------------
-If you are <a href = "http://www.xanthium.in/brief-introduction-msp430g2xxx-using-ti-launchpad-development-board">**New to MSP430 you can check our Tutorials here**</a>.
+If you are <a href = "https://www.xanthium.in/brief-introduction-msp430g2xxx-using-ti-launchpad-development-board">**New to MSP430 you can check our Tutorials here**</a>.
